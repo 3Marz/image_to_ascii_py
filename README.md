@@ -14,3 +14,8 @@ pip install pillow
 python image_to_ascii.py <file> 
 python image_to_ascii.py <file> <width> <height>
 ```
+
+## Screenshots
+
+![Alt text](/screenshots/rwb.PNG?raw=true "Rwb")
+![Alt text](/screenshots/kirby.PNG?raw=true "Kirby")
